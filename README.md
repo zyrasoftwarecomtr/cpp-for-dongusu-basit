@@ -40,10 +40,24 @@ c++ ile basit for döngüsü
   örneğin kullanıcı sayıyı 4 girdi
   
 **1**.Adım: "i" değişkeni 1 değerine atanır. Şu an "i" değeri 1'dir.
+
+
 **2**.Adım: sonuc = sonuc * i; (sonuc = 1 * 1;) Burada "sonuc" değişkeni, kendisiyle "i" değerinin çarpımı olan 1 olur. Yani, sonuc = 1.
+
+
+
 **3**.Adım: "i" değeri 1 artırılır, yani "i" şu an 2 olur.
+
+
 **4**.Adım: sonuc = sonuc * i; (sonuc = 1 * 2;) Bu adımda "sonuc" değişkeni, kendisiyle "i" değerinin çarpımı olan 2 olur. Yani, sonuc = 2.
+
 **5**.Adım: "i" değeri 1 artırılır, yani "i" şu an 3 olur.
+
+
 **6**.Adım: sonuc = sonuc * i; (sonuc = 2 * 3;) Bu adımda "sonuc" değişkeni, kendisiyle "i" değerinin çarpımı olan 6 olur. Yani, sonuc = 6.
+
+
 **7**Adım: "i" değeri 1 artırılır, yani "i" şu an 4 olur.
+
+
 **8**Adım: sonuc = sonuc * i; (sonuc = 6 * 4;) Bu adımda "sonuc" değişkeni, kendisiyle "i" değerinin çarpımı olan 24 olur. Yani, sonuc = 24.
