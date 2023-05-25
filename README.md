@@ -57,7 +57,7 @@ c++ ile basit for döngüsü
 **6**.Adım: sonuc = sonuc * i; (sonuc = 2 * 3;) Bu adımda "sonuc" değişkeni, kendisiyle "i" değerinin çarpımı olan 6 olur. Yani, sonuc = 6.
 
 
-**7**Adım: "i" değeri 1 artırılır, yani "i" şu an 4 olur.
+**7**.Adım: "i" değeri 1 artırılır, yani "i" şu an 4 olur.
 
 
-**8**Adım: sonuc = sonuc * i; (sonuc = 6 * 4;) Bu adımda "sonuc" değişkeni, kendisiyle "i" değerinin çarpımı olan 24 olur. Yani, sonuc = 24.
+**8**.Adım: sonuc = sonuc * i; (sonuc = 6 * 4;) Bu adımda "sonuc" değişkeni, kendisiyle "i" değerinin çarpımı olan 24 olur. Yani, sonuc = 24.
